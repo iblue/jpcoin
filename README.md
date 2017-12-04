@@ -1,19 +1,8 @@
-# jpcoin
+# jpcoin GOLD
 
 ![jpcoin logo](jpcoin.png)
 
-the crypto cryptocoin!
-
-http://dev.pywaves.org/assets/CVaG5MZTLQ88WU1qVv4wXrfoEFXupoNEq77kv6XgqKeL
-
-ICO: https://twitter.com/veorq/status/935455295911886849
-
-airdrop: https://twitter.com/veorq/status/935514710195220481, also, if
-you bought the book Serious Cryptography you'll eligible to receive 100
-JPC. But no guarantee of (quick) delivery.
-
-buy: on the [Waves](https://wavesplatform.com/) exchange, in BTC, look
-for asset ID CVaG5MZTLQ88WU1qVv4wXrfoEFXupoNEq77kv6XgqKeL
+Ignore the stuff below. This is jpcoin GOLD. It's got bigger blocks. Also we are gonne put a blockchain into your blockchain (once we figure out how to do it).
 
 ## Business model
 
